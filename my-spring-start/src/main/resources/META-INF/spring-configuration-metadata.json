@@ -1,0 +1,18 @@
+{
+  "group": [
+    {
+      "name": "com.arron",
+      "type": "com.jack.start.demo.MyStarterProperties",
+      "sourceType": "com.jack.start.demo.MyStarterProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "com.arron.name",
+      "type": "java.lang.String",
+      "description": "my start name",
+      "sourceType": "com.jack.start.demo.MyStarterProperties",
+      "defaultValue": "MyStarterProperties name"
+    }
+  ]
+}
